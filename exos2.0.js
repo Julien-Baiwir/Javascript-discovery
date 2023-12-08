@@ -91,5 +91,25 @@
 
 // 2.6 ---------------
 
+// let minumber = parseInt(prompt("Choose a number beetween 1 and 7"));
 
+// if ( minumber >0 && minumber < 3){
+//     if (minumber == 1){
+//         console.log('Lundi');
+//     } else if (minumber == 2){
+//         console.log('Mardi');
+//     } else{
+//         console.log('Please enter an other number');
+//     }
+// }
 
+// 2.7 ---------------
+// let number = (prompt("Choose a number n:"));
+// let sum = 0;
+
+// for ( let i=0; i < number; i++){
+//    let num = parseInt(prompt (`Enter new number ${i + 1}`));
+//    sum += num;
+  
+// }
+// console.log(`The sum of the numbers is: ${sum}`);
